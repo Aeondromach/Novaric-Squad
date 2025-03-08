@@ -7,6 +7,8 @@
         <archetype id="ID_ARCHETYPE_HISTORIAN">Historian</archetype>
         <squad>Novaric Squad</squad>
         <rank>7</rank>
-        <charPortrait>C:/Users/AdamE.2026/OneDrive/Evelyn/Noverita/noverita/src/main/resources/com/aeondromach/images/noverita.png</charPortrait>
+        <charPortrait>
+            <local>pictures/pure human aemilius novaric.png</local>
+        </charPortrait>
     </information>
 </character>

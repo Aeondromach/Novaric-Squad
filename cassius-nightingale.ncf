@@ -3,10 +3,12 @@
     <information>
         <name>Cassius Nightingale</name>
         <species id="ID_SPECIES_HUMAN">Human</species>
-        <race id="ID_RACE_HUMAN_PURE">Pure</race>
+        <race id="ID_RACE_HUMAN_CYBORG">Pure</race>
         <archetype id="ID_ARCHETYPE_LEGEND">Legend</archetype>
         <squad>Novaric Squad</squad>
         <rank>9</rank>
-        <charPortrait>C:/Users/AdamE.2026/OneDrive/Evelyn/Images/Phoenix.jpg</charPortrait>
+        <charPortrait>
+            <local>pictures/cyborg human cassius nightingale.png</local>
+        </charPortrait>
     </information>
 </character>
