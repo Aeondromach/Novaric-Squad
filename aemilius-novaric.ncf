@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+    <information>
+        <name>Aemilius Novaric</name>
+        <species id="ID_SPECIES_HUMAN">Human</species>
+        <race id="ID_RACE_HUMAN_PURE">Pure</race>
+        <archetype id="ID_ARCHETYPE_HISTORIAN">Historian</archetype>
+        <squad>Novaric Squad</squad>
+        <rank>7</rank>
+        <charPortrait>C:/Users/AdamE.2026/OneDrive/Evelyn/Noverita/noverita/src/main/resources/com/aeondromach/images/noverita.png</charPortrait>
+    </information>
+</character>
