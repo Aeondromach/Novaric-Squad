@@ -8,7 +8,7 @@
         <squad>Novaric Squad</squad>
         <rank>7</rank>
         <charPortrait>
-            <local>pictures/pure human aemilius novaric.png</local>
+            <local>C:/Novaric-Squad/images/pure-human-aemilius-novaric.png</local>
         </charPortrait>
     </information>
 </character>

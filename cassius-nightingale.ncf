@@ -8,7 +8,7 @@
         <squad>Novaric Squad</squad>
         <rank>9</rank>
         <charPortrait>
-            <local>pictures/cyborg human cassius nightingale.png</local>
+            <local>C:/Novaric-Squad/images/cyborg-human-cassius-nightingale.png</local>
         </charPortrait>
     </information>
 </character>
